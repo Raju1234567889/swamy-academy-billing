@@ -1,0 +1,5 @@
+{
+  "name": "Swamy Academy Billing System",
+  "description": "A web application for Swamy Academy to manage student data and billing records. It features an admin panel for full data control and invoice management, and an employee panel for data entry.",
+  "requestFramePermissions": []
+}
